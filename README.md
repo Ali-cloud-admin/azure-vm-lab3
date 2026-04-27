@@ -1,9 +1,9 @@
-**Lab 3: Azure Virtual Machine Deployment with PowerShell**
+# **Lab 3: Azure Virtual Machine Deployment with PowerShell**
 
-🎯 Objective  
+## 🎯 Objective  
 Provision a virtual machine in Azure using PowerShell, including setup of networking, security, and verification of deployment.
 
-**⚙️ Resources Deployed**
+## **⚙️ Resources Deployed**
 
 Resource Group: rg-vm-lab
 Virtual Network: vnet-vm-lab
